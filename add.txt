@@ -1,1 +1,2 @@
 add . is a git command used to add all files in the directory .
+34
