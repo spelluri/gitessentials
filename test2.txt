@@ -1,1 +1,2 @@
 This is yet another text file to check -u option in git .
+Hello ubuntutws i am local ubuntu machine .
